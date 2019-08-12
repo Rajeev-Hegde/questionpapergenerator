@@ -2,6 +2,7 @@
 
 
 This is a sample application which demonstrates generating question paper from available set of matching questions.
+Matching questions are those questions which matches/fits the criteria which user provides as part of his question paper template.
 
 
 ### Application features:
