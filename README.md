@@ -1,10 +1,10 @@
-#Question Paper Generator
+# Question Paper Generator
 
 
 This is a sample application which demonstrates generating question paper from available set of matching questions.
 
 
-###Application features:
+### Application features:
 
 1. User can feed question and its details to the application's store.
 2. User can modify existing question store..
