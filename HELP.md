@@ -1,22 +1,13 @@
-# Getting Started
+#Question Paper Generator
 
-### Reference Documentation
-For further reference, please consider the following sections:
 
-* [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Web Starter](https://docs.spring.io/spring-boot/docs/{bootVersion}/reference/htmlsingle/#boot-features-developing-web-applications)
-* [Spring Data Redis (Access+Driver)](https://docs.spring.io/spring-boot/docs/{bootVersion}/reference/htmlsingle/#boot-features-redis)
+This is a sample application which demonstrates generating question paper from available set of matching questions.
 
-### Guides
-The following guides illustrate how to use some features concretely:
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
-* [Messaging with Redis](https://spring.io/guides/gs/messaging-redis/)
+###Application features:
 
-### Additional Links
-These additional references should also help you:
-
-* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
+1. User can feed question and its details to the application's store.
+2. User can modify existing question store..
+3. User can remove existing question from the store. 
+4. User can query/ask for generating question paper by providing question paper template.
 
